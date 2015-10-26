@@ -175,7 +175,7 @@ $config =
         [
             'class'                         => '\skeeks\cms\Module',
 
-            'controllerMap' => [
+            /*'controllerMap' => [
                 'elfinder' =>
                 [
                     'class' => 'skeeks\cms\controllers\ElfinderController',
@@ -229,7 +229,7 @@ $config =
 
                     ]
                 ]
-            ],
+            ],*/
         ],
 
         'datecontrol' =>  [
